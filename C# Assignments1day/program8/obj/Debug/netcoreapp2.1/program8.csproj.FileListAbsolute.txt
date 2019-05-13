@@ -1,0 +1,22 @@
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\program8\bin\Debug\netcoreapp2.1\program8.deps.json
+C:\Users\akshay.nagare\Desktop\C#\program8\bin\Debug\netcoreapp2.1\program8.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\program8\bin\Debug\netcoreapp2.1\program8.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\program8\bin\Debug\netcoreapp2.1\program8.dll
+C:\Users\akshay.nagare\Desktop\C#\program8\bin\Debug\netcoreapp2.1\program8.pdb
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.dll
+C:\Users\akshay.nagare\Desktop\C#\program8\obj\Debug\netcoreapp2.1\program8.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\bin\Debug\netcoreapp2.1\program8.deps.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\bin\Debug\netcoreapp2.1\program8.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\bin\Debug\netcoreapp2.1\program8.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\bin\Debug\netcoreapp2.1\program8.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\bin\Debug\netcoreapp2.1\program8.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program8\obj\Debug\netcoreapp2.1\program8.pdb

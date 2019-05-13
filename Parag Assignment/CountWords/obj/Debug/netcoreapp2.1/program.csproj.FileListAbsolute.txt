@@ -1,0 +1,11 @@
+E:\Parag Assignment\program\bin\Debug\netcoreapp2.1\program.deps.json
+E:\Parag Assignment\program\bin\Debug\netcoreapp2.1\program.runtimeconfig.json
+E:\Parag Assignment\program\bin\Debug\netcoreapp2.1\program.runtimeconfig.dev.json
+E:\Parag Assignment\program\bin\Debug\netcoreapp2.1\program.dll
+E:\Parag Assignment\program\bin\Debug\netcoreapp2.1\program.pdb
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.csprojAssemblyReference.cache
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.csproj.CoreCompileInputs.cache
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.AssemblyInfoInputs.cache
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.AssemblyInfo.cs
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.dll
+E:\Parag Assignment\program\obj\Debug\netcoreapp2.1\program.pdb

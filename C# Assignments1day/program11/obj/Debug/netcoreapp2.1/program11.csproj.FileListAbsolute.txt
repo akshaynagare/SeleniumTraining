@@ -1,0 +1,22 @@
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\program11\bin\Debug\netcoreapp2.1\program11.deps.json
+C:\Users\akshay.nagare\Desktop\C#\program11\bin\Debug\netcoreapp2.1\program11.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\program11\bin\Debug\netcoreapp2.1\program11.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\program11\bin\Debug\netcoreapp2.1\program11.dll
+C:\Users\akshay.nagare\Desktop\C#\program11\bin\Debug\netcoreapp2.1\program11.pdb
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.dll
+C:\Users\akshay.nagare\Desktop\C#\program11\obj\Debug\netcoreapp2.1\program11.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\bin\Debug\netcoreapp2.1\program11.deps.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\bin\Debug\netcoreapp2.1\program11.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\bin\Debug\netcoreapp2.1\program11.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\bin\Debug\netcoreapp2.1\program11.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\bin\Debug\netcoreapp2.1\program11.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program11\obj\Debug\netcoreapp2.1\program11.pdb

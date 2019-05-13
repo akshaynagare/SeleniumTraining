@@ -1,0 +1,9 @@
+e:\UnitTesting\deligate\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+e:\UnitTesting\deligate\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+e:\UnitTesting\deligate\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+e:\UnitTesting\deligate\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb

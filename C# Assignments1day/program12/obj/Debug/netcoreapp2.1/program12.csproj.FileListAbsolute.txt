@@ -1,0 +1,11 @@
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\bin\Debug\netcoreapp2.1\program12.deps.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\bin\Debug\netcoreapp2.1\program12.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\bin\Debug\netcoreapp2.1\program12.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\bin\Debug\netcoreapp2.1\program12.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\bin\Debug\netcoreapp2.1\program12.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\program12\obj\Debug\netcoreapp2.1\program12.pdb
