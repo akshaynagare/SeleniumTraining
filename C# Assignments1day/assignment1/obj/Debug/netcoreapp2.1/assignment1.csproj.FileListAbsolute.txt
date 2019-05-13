@@ -1,0 +1,22 @@
+C:\Users\akshay.nagare\Desktop\C#\assignment1\bin\Debug\netcoreapp2.1\assignment1.deps.json
+C:\Users\akshay.nagare\Desktop\C#\assignment1\bin\Debug\netcoreapp2.1\assignment1.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\assignment1\bin\Debug\netcoreapp2.1\assignment1.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\assignment1\bin\Debug\netcoreapp2.1\assignment1.dll
+C:\Users\akshay.nagare\Desktop\C#\assignment1\bin\Debug\netcoreapp2.1\assignment1.pdb
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.dll
+C:\Users\akshay.nagare\Desktop\C#\assignment1\obj\Debug\netcoreapp2.1\assignment1.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\bin\Debug\netcoreapp2.1\assignment1.deps.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\bin\Debug\netcoreapp2.1\assignment1.runtimeconfig.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\bin\Debug\netcoreapp2.1\assignment1.runtimeconfig.dev.json
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\bin\Debug\netcoreapp2.1\assignment1.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\bin\Debug\netcoreapp2.1\assignment1.pdb
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.csprojAssemblyReference.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.AssemblyInfoInputs.cache
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.AssemblyInfo.cs
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.dll
+C:\Users\akshay.nagare\Desktop\C#\C# Assignments\assignment1\obj\Debug\netcoreapp2.1\assignment1.pdb

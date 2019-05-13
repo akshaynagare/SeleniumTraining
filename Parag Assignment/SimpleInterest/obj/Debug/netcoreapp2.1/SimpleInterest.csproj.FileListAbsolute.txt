@@ -1,0 +1,11 @@
+E:\Parag Assignment\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.deps.json
+E:\Parag Assignment\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.runtimeconfig.json
+E:\Parag Assignment\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.runtimeconfig.dev.json
+E:\Parag Assignment\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.dll
+E:\Parag Assignment\SimpleInterest\bin\Debug\netcoreapp2.1\SimpleInterest.pdb
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.csprojAssemblyReference.cache
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.csproj.CoreCompileInputs.cache
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.AssemblyInfoInputs.cache
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.AssemblyInfo.cs
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.dll
+E:\Parag Assignment\SimpleInterest\obj\Debug\netcoreapp2.1\SimpleInterest.pdb

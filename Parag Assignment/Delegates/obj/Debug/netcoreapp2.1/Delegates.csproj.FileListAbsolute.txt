@@ -1,0 +1,11 @@
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.csprojAssemblyReference.cache
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+E:\Parag Assignment\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+E:\Parag Assignment\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+E:\Parag Assignment\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+E:\Parag Assignment\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+E:\Parag Assignment\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+E:\Parag Assignment\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb

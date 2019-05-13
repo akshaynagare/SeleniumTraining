@@ -1,0 +1,15 @@
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.csprojAssemblyReference.cache
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.csproj.CoreCompileInputs.cache
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.AssemblyInfoInputs.cache
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.AssemblyInfo.cs
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NunitTest.deps.json
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NunitTest.runtimeconfig.json
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NunitTest.runtimeconfig.dev.json
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NunitTest.dll
+E:\Session\DeeptiSession\NunitTest\bin\Debug\netcoreapp2.1\NunitTest.pdb
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.dll
+E:\Session\DeeptiSession\NunitTest\obj\Debug\netcoreapp2.1\NunitTest.pdb
